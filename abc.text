@@ -12,3 +12,21 @@ child 2 has been created
 child 123
 
 child 2 has been created 
+GW64 ~ (master)
+$ cd G:
+
+NABEEL@NabeelQureshi MINGW64 /g
+$ cd demo
+
+NABEEL@NabeelQureshi MINGW64 /g/demo (master)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
+NABEEL@NabeelQureshi MINGW64 /g/demo (master)
+$ git commit
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
